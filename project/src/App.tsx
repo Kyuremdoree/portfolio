@@ -35,7 +35,7 @@ function App() {
 
   return (
     // make nothing in the basename
-    <Router basename="./"> 
+    <Router> 
       <div className={`min-h-screen ${isDarkMode ? 'bg-[#0A0F1A]' : 'bg-white'} text-white relative overflow-hidden`}>
         {/* Animated Background */}
         <div className="fixed inset-0 z-0 overflow-hidden">
