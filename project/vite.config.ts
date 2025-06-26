@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  // base: 'containers/alexislaurent-portfolio_alexis_laurent_3A/', // '/' is the root path for GitHub Pages
+  base: '/portfolio/', // '/' is the root path for GitHub Pages
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
