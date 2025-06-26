@@ -1,0 +1,118 @@
+{
+  "sections": [
+    {
+      "id": "gaming",
+      "title": "Passion du Gaming",
+      "icon": "Gamepad2",
+      "content": [
+        {
+          "title": "Counter-Strike",
+          "icon": "Trophy",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_616x353.jpg?t=1749053861",
+          "description": "Joueur dédié de Counter-Strike avec un accent sur le gameplay compétitif et les stratégies d'équipe. Toujours en quête d'amélioration du sens du jeu et de la coordination d'équipe.",
+          "highlights": [
+            "Expérience en matchmaking compétitif",
+            "Développement de stratégies d'équipe",
+            "Implication communautaire"
+          ]
+        },
+        {
+          "title": "Jeu solo",
+          "icon": "Sword",
+          "image": "https://comarketing-news.fr/wp-content/uploads/chiffres-jeu-video.jpg",
+          "description": "Grand fan de jeux vidéo solo depuis mon enfance, explorant des mondes immersifs et des récits captivants. Des RPG épiques aux jeux d'aventure narratifs, chaque expérience de jeu est une nouvelle aventure.",
+          "highlights": [
+            "Complétion",
+            "Exploration",
+            "Divertissement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cinema",
+      "title": "Cinéma & Culture Pop",
+      "icon": "Clapperboard",
+      "content": [
+        {
+          "title": "Passionné de Cinéma",
+          "icon": "Film",
+          "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&q=80&w=2070",
+          "description": "Passionné de cinéma tous genres confondus, des films classiques aux chefs-d'œuvre modernes. Particulièrement intéressé par les techniques de narration et la cinématographie.",
+          "highlights": [
+            "Curieux des anecdotes cinématographiques",
+            "Analyse et critique de films"
+          ]
+        },
+        {
+          "title": "Séries TV & Animation",
+          "icon": "Tv2",
+          "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=2070",
+          "description": "Suivant l'âge d'or de la télévision avec un vif intérêt pour les productions mainstream et indépendantes.",
+          "highlights": [
+            "Curieux des anecdotes de séries",
+            "Études d'impact culturel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "title": "Création de Contenu",
+      "icon": "Image",
+      "content": [
+        {
+          "title": "Art Numérique & Design",
+          "icon": "Palette",
+          "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&q=80&w=2070",
+          "description": "Maîtrise de Photoshop et des outils de design numérique, création de divers types de contenu, des assets pour réseaux sociaux aux œuvres d'art numériques. En constante exploration de nouvelles techniques et styles.",
+          "highlights": [
+            "Manipulation photo",
+            "Illustration numérique",
+            "Design de marque"
+          ]
+        },
+        {
+          "title": "Streaming & Production Vidéo",
+          "icon": "Video",
+          "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80&w=2070",
+          "description": "Expérimenté avec OBS et les outils de production vidéo, création de contenu engageant pour diverses plateformes. Focus sur la qualité de production et l'engagement du public.",
+          "highlights": [
+            "Configuration de streaming",
+            "Montage vidéo",
+            "Stratégie de contenu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diplomes",
+      "title": "Diplômes hors cursus",
+      "icon": "GraduationCap",
+      "content": [
+        {
+          "title": "Diplômes Cambridge",
+          "icon": "Award",
+          "image": "https://cdn.getyourguide.com/img/location/5c10eb2e55553.jpeg/99.jpg",
+          "description": "Durant mes années de collège, j'ai eu l'occasion de passer les examens de Cambridge (PET & KEY).",
+          "highlights": [
+            "Compréhension orale de l'anglais",
+            "Compréhension écrite de l'anglais",
+            "Rédaction en anglais"
+          ]
+        },
+        {
+          "title": "BIA (Brevet d'Initiation Aéronautique)",
+          "icon": "Plane",
+          "image": "https://www.lyceekastler.fr/wp-content/uploads/2024/02/bia.jpg",
+          "description": "Formation théorique et pratique sur les aéronefs, les principes de vol et la navigation. Obtention du BIA en 2024.",
+          "highlights": [
+            "Connaissances en aéronautique",
+            "Compréhension des principes de vol",
+            "Formation pratique sur les aéronefs"
+          ]
+        }
+      ]
+    }
+  ]
+}

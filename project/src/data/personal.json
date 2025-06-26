@@ -1,0 +1,33 @@
+{
+  "name": "Alexis LAURENT",
+  "title": "A Full Stack Developer",
+  "bio": "Passionate full-stack developer with expertise in modern web technologies. I specialize in building scalable applications with React, Node.js, and cloud technologies. Always excited to tackle complex technical challenges and create elegant solutions.",
+  "location": "Italy",
+  "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1000",
+  "social": [
+    {
+      "platform": "GitHub",
+      "icon": "Github",
+      "url": "https://github.com/robinw",
+      "username": "@robinw"
+    },
+    {
+      "platform": "LinkedIn",
+      "icon": "Linkedin",
+      "url": "https://linkedin.com/in/robinw",
+      "username": "Robin Williams"
+    },
+    {
+      "platform": "Email",
+      "icon": "Mail",
+      "url": "mailto:robin@example.com",
+      "username": "robin@example.com"
+    },
+    {
+      "platform": "Twitter",
+      "icon": "Twitter",
+      "url": "https://twitter.com/robinw",
+      "username": "@robinw"
+    }
+  ]
+}

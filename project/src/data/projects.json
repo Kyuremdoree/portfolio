@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Cloud-Native Microservices Platform",
+      "shortDescription": "Scalable microservices architecture with Kubernetes",
+      "description": "Designed and implemented a cloud-native microservices platform using Kubernetes, Docker, and Node.js. Features include service discovery, load balancing, and automated scaling. Implemented CI/CD pipelines with GitHub Actions and ArgoCD.",
+      "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?auto=format&fit=crop&q=80&w=2070",
+      "technologies": ["Kubernetes", "Docker", "Node.js", "TypeScript", "Redis"],
+      "link": "https://github.com/yourusername/cloud-platform",
+      "demoLink": "https://demo-platform.example.com",
+      "year": 2024
+    },
+    {
+      "id": 2,
+      "title": "Real-time Analytics Dashboard",
+      "shortDescription": "High-performance data visualization platform",
+      "description": "Built a real-time analytics dashboard processing millions of events per second. Utilized WebSocket for live updates, implemented data aggregation with Redis, and created interactive visualizations with D3.js.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2070",
+      "technologies": ["React", "WebSocket", "Redis", "D3.js", "Node.js"],
+      "link": "https://github.com/yourusername/analytics-dashboard",
+      "demoLink": "https://demo-analytics.example.com",
+      "year": 2024
+    },
+    {
+      "id": 3,
+      "title": "AI-Powered Code Review Assistant",
+      "shortDescription": "Machine learning tool for automated code reviews",
+      "description": "Developed an AI-powered code review assistant that analyzes pull requests, suggests improvements, and detects potential bugs. Integrated with GitHub API and implemented custom machine learning models for code analysis.",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=2070",
+      "technologies": ["Python", "TensorFlow", "FastAPI", "GitHub API"],
+      "link": "https://github.com/yourusername/code-review-ai",
+      "demoLink": "https://demo-ai.example.com",
+      "year": 2023
+    }
+  ]
+}

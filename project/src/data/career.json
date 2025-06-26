@@ -1,0 +1,74 @@
+{
+  "timeline": [
+    {
+      "id": 1,
+      "year": "2024",
+      "company": "Tech Innovators Inc.",
+      "position": "Senior Full Stack Developer",
+      "location": "Remote",
+      "description": "Leading the development of cloud-native applications and mentoring junior developers in best practices.",
+      "achievements": [
+        "Architected and implemented a microservices platform reducing deployment time by 70%",
+        "Led the migration of legacy systems to modern cloud architecture",
+        "Improved application performance by 40% through optimization"
+      ],
+      "technologies": ["React", "Node.js", "Kubernetes", "AWS"]
+    },
+    {
+      "id": 2,
+      "year": "2022 - 2023",
+      "company": "DataFlow Systems",
+      "position": "Full Stack Developer",
+      "location": "Milan, Italy",
+      "description": "Developed scalable web applications focusing on real-time data processing and visualization.",
+      "achievements": [
+        "Built real-time analytics dashboard processing 1M+ events/second",
+        "Implemented automated testing reducing bugs by 60%",
+        "Optimized database queries improving response time by 50%"
+      ],
+      "technologies": ["TypeScript", "PostgreSQL", "Redis", "Docker"]
+    },
+    {
+      "id": 3,
+      "year": "2020 - 2022",
+      "company": "CloudScale Solutions",
+      "position": "Backend Developer",
+      "location": "Rome, Italy",
+      "description": "Focused on building scalable backend services and API development.",
+      "achievements": [
+        "Designed RESTful APIs serving 100K+ daily active users",
+        "Implemented caching strategy reducing server load by 40%",
+        "Created automated deployment pipeline saving 10 hours/week"
+      ],
+      "technologies": ["Node.js", "MongoDB", "GraphQL", "AWS"]
+    },
+    {
+      "id": 4,
+      "year": "2020 - 2022",
+      "company": "CloudScale Solutions",
+      "position": "Backend Developer",
+      "location": "Rome, Italy",
+      "description": "Focused on building scalable backend services and API development.",
+      "achievements": [
+        "Designed RESTful APIs serving 100K+ daily active users",
+        "Implemented caching strategy reducing server load by 40%",
+        "Created automated deployment pipeline saving 10 hours/week"
+      ],
+      "technologies": ["Node.js", "MongoDB", "GraphQL", "AWS"]
+    },
+    {
+      "id": 5,
+      "year": "2020 - 2022",
+      "company": "CloudScale Solutions",
+      "position": "Backend Developer",
+      "location": "Rome, Italy",
+      "description": "Focused on building scalable backend services and API development.",
+      "achievements": [
+        "Designed RESTful APIs serving 100K+ daily active users",
+        "Implemented caching strategy reducing server load by 40%",
+        "Created automated deployment pipeline saving 10 hours/week"
+      ],
+      "technologies": ["Node.js", "MongoDB", "GraphQL", "AWS"]
+    }
+  ]
+}

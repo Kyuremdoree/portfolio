@@ -1,0 +1,80 @@
+{
+  "timeline": [
+    {
+      "id": 1,
+      "year": "2024 - 2025",
+      "company": "Apside",
+      "position": "Alternant Développeur",
+      "location": "Cournon Auvergne, France",
+      "description": "Développeur Full-Stack sur projet interne ou besoin de client",
+      "achievements": [
+        "API .NET C# : OpenDATA -> Architecure Générique permettant d'ajouter facilement des composants",
+        "Changement visuel et architectural pour une application permettant de gérer les plantes de l'agence -> depoyement",
+        "Deployement d'une API permettant d'effectué des opérations CRUD sur des plantes"
+      ],
+      "technologies": ["C#", ".NET", "Flutter", "Dart", "EntityFrameWork", "Nuggets: OData", "Docker"]
+    },
+    {
+      "id": 2,
+      "year": "Mai 2024 - Juillet 2024",
+      "company": "Apside",
+      "position": "Stagiaire Développeur",
+      "location": "Cournon Auvergne, France",
+      "description": "Développeur Full-Stack sur projet interne",
+      "achievements": [
+        "API .NET C# : réalisant des opération CRUD sur des plantes et utilisation de Entity FrameWork",
+        "Développement d'une application mobile en flutter permettant de gérer les plantes cotés utilisateurs",
+        "Développement d'un site web administrateur pour gérer les plantes et les utilisateurs",
+        "Mise en place d'un capteur de température, d'humidité et luminosité pour des plantes et programmation sur un ESP32"
+      ],
+      "technologies": ["C#", ".NET", "Flutter", "Dart", "EntityFrameWork", "Angular", "C++", "Arduino", "PlatformIO"]
+    },
+    {
+      "id": 3,
+      "year": "Décembre 2023 - Mai 2024",
+      "company": "UCAQ, Université du Québec à Chicoutimi",
+      "position": "Etudiant en Informatique",
+      "location": "Chicoutimi, Canada",
+      "description": "Formation dans un pays étranger, centré sur la conception UI/UX, le développment d'application, de jeux vidéo et initiation au Data Mining",
+      "achievements": [
+        "Conception UI/UX",
+        "Prototypage de jeux vidéo",
+        "Conception d'un jeu vidéo (histoire,évolution, gameplay, graphisme)",
+        "Data Mining",
+        "Développment d'une application mobile Android"
+      ],
+      "technologies": ["Figma", "Canva", "Unreal Engine 5", "Perforce", "Java", "Android", "Python"]
+    },
+    {
+      "id": 4,
+      "year": "2022 - 2025",
+      "company": "BUT informatique",
+      "position": "Etudiant en Informatique",
+      "location": "IUT Clermont Auvergne, France",
+      "description": "Formation centré sur l'informatique, de la conception au développement jusqu'au déployement d'un projet tout en effectuant de la gestion d'équipe, gestion de projet et de l'analyse économique et juridique",
+      "achievements": [
+        "Réaliser un développement d'application",
+        "Optimiser des applications",
+        "Administrer des systèmes informatique avec des communications complexes",
+        "Gérer des données de l'information",
+        "Conduire un projet",
+        "Collaborer au sein d'une équipe informatique"
+      ],
+      "technologies": ["C#", "C++", "C", "Java", "Swift", "Android", "MAUI", "SQLite", "Python", "Kubernetes", "Html/Css"]
+    },
+    {
+      "id": 5,
+      "year": "2019 - 2022",
+      "company": "Lycée Saint-Michel",
+      "position": "Lycéen",
+      "location": "Saint-Etienne, France",
+      "description": "Formation Générale",
+      "achievements": [
+        "Spécialité Physique-Chimie",
+        "Spécialité Maths",
+        "Spécialité NSI (Numérique et Science Informatique"
+      ],
+      "technologies": ["Python", "Html/Css"]
+    }
+  ]
+}

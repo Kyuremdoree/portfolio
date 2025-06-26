@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "name": "Frontend Development",
+      "icon": "Code",
+      "skills": [
+        {
+          "name": "MAUI",
+          "level": "Avancé",
+          "yearsOfExperience": 3,
+          "icon": "Code"
+        },
+        {
+          "name": "Android",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Code"
+        },
+        {
+          "name": "Flutter",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Code"
+        },
+        {
+          "name": "SwiftUI",
+          "level": "Débutant",
+          "yearsOfExperience": 1,
+          "icon": "Code"
+        },
+        {
+          "name": "React Native",
+          "level": "Débutant",
+          "yearsOfExperience": 1,
+          "icon": "Code"
+        }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "icon": "Server",
+      "skills": [
+        {
+          "name": "C#/.NET",
+          "level": "Avancé",
+          "yearsOfExperience": 3,
+          "icon": "Server"
+        },
+        {
+          "name": "Java (API, App)",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Server"
+        },
+        {
+          "name": "Python",
+          "level": "Avancé",
+          "yearsOfExperience": 5,
+          "icon": "Server"
+        },
+        {
+          "name": "Swift",
+          "level": "Débutant",
+          "yearsOfExperience": 1,
+          "icon": "Server"
+        },
+        {
+          "name": "C",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Server"
+        },
+        {
+          "name": "Unreal Engine 5",
+          "level": "Débutant",
+          "yearsOfExperience": 1,
+          "icon": "Server"
+        },
+        {
+          "name": "SQL",
+          "level": "Avancé",
+          "yearsOfExperience": 4,
+          "icon": "Server"
+        }
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "icon": "Settings",
+      "skills": [
+        {
+          "name": "Kubernetes/Docker",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Settings"
+        },
+        {
+          "name": "Portainer",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Settings"
+        },
+        {
+          "name": "Harbor",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Settings"
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "level": "Avancé",
+          "yearsOfExperience": 2,
+          "icon": "Settings"
+        }
+      ]
+    }
+  ]
+}

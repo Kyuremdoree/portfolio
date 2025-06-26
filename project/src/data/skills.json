@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "name": "Frontend Development",
+      "icon": "Code",
+      "skills": [
+        {
+          "name": "React & Next.js",
+          "level": "Expert",
+          "yearsOfExperience": 5,
+          "icon": "Code"
+        },
+        {
+          "name": "TypeScript",
+          "level": "Expert",
+          "yearsOfExperience": 4,
+          "icon": "Code"
+        },
+        {
+          "name": "Performance Optimization",
+          "level": "Advanced",
+          "yearsOfExperience": 3,
+          "icon": "Code"
+        },
+        {
+          "name": "State Management",
+          "level": "Expert",
+          "yearsOfExperience": 4,
+          "icon": "Code"
+        },
+        {
+          "name": "Testing (Jest/RTL)",
+          "level": "Advanced",
+          "yearsOfExperience": 3,
+          "icon": "Code"
+        },
+        {
+          "name": "Web Performance",
+          "level": "Expert",
+          "yearsOfExperience": 4,
+          "icon": "Code"
+        }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "icon": "Server",
+      "skills": [
+        {
+          "name": "Node.js/Express",
+          "level": "Expert",
+          "yearsOfExperience": 5,
+          "icon": "Server"
+        },
+        {
+          "name": "GraphQL",
+          "level": "Advanced",
+          "yearsOfExperience": 3,
+          "icon": "Server"
+        },
+        {
+          "name": "PostgreSQL/MongoDB",
+          "level": "Expert",
+          "yearsOfExperience": 4,
+          "icon": "Server"
+        },
+        {
+          "name": "Microservices",
+          "level": "Advanced",
+          "yearsOfExperience": 3,
+          "icon": "Server"
+        }
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "icon": "Settings",
+      "skills": [
+        {
+          "name": "Kubernetes/Docker",
+          "level": "Advanced",
+          "yearsOfExperience": 3,
+          "icon": "Settings"
+        },
+        {
+          "name": "AWS Services",
+          "level": "Advanced",
+          "yearsOfExperience": 4,
+          "icon": "Settings"
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "level": "Expert",
+          "yearsOfExperience": 4,
+          "icon": "Settings"
+        },
+        {
+          "name": "Infrastructure as Code",
+          "level": "Advanced",
+          "yearsOfExperience": 3,
+          "icon": "Settings"
+        }
+      ]
+    }
+  ]
+}

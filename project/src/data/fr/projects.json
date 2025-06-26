@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "FloraFauna GO",
+      "shortDescription": "Un jeu pour identifier des espèces",
+      "description": "Le projet a été divisé en 2 sous-projets, une application pour le côté client et une API pour gérer le côté serveur comme l'identification, le lien vers une base de données.",
+      "image": "https://imgur.com/t9ztuBO.png",
+      "technologies": [".NET", "C#","React Native", "Docker", "Drone"],
+      "link": "https://github.com/BUT-Project/FloraFaunaGO_API",
+      "demoLink": "https://codefirst.iut.uca.fr/containers/FloraFauna_GO-api/swagger/index.html",
+      "year": 2025
+    },
+    {
+      "id": 2,
+      "title": "Connect4",
+      "shortDescription": "Un projet Swift en CLI",
+      "description": "C'est un projet éducatif pour apprendre à utiliser Swift en ligne de commande. Il s'agit d'une implémentation des jeux classiques Connect4, TicTacToe et PopOut. Utilisation d'événements, de rappels, d'écouteurs...",
+      "image": "https://www.figma.com/community/resource/db7aeee7-9692-46e5-adc8-d509ffa2f48d/thumbnail",
+      "technologies": ["Swift"],
+      "link": "https://github.com/BUT-Project/Swift",
+      "year": 2025
+    },
+    {
+      "id": 3,
+      "title": "Application pour gérer les objets de l'UCA",
+      "shortDescription": "Projet pour apprendre le modèle MVVM",
+      "description": "Implémentation d'une application mobile pour gérer les objets de l'UCA, vous pouvez utiliser un objet pour emprunter, retourner, réserver et voir l'historique de vos objets. Vous pouvez gérer votre profil, et c'est connecté à l'API de l'UCA.",
+      "image": "https://www.ac-clermont.fr/sites/ac_clermont/files/2023-04/logo-uca-jpg-38462.jpg",
+      "technologies": ["C#", "MAUI", "UCA API"],
+      "link": "https://github.com/BUT-Project/MVVM_Project",
+      "year": 2024
+    },
+    {
+      "id": 4,
+      "title": "Elpy",
+      "shortDescription": "Application boîte à outils",
+      "description": "Elpy est une application boîte à outils, qui vous permet de convertir des devises, d'utiliser des notes, de créer un png sur une carte et d'écrire des informations, chrono, convertisseur audio.",
+      "image": "https://imgur.com/ggt3wI8.png",
+      "technologies": ["Android", "Java", "Graddle"],
+      "link": "https://github.com/Kyuremdoree/Elpy",
+      "year": 2024
+    },
+    {
+      "id": 5,
+      "title": "Silent Museum",
+      "shortDescription": "Jeu d'horreur basé sur le son",
+      "description": "Un projet Unreal Engine 5, c'est un jeu d'horreur. Le but est simple, vous devez résoudre des tâches pour vous échapper d'un musée, mais un monstre vous suit par le son que vous faites en marchant, lancez des pierres pour feindre votre position.",
+      "image": "https://imgur.com/xocHHQS.png",
+      "technologies": ["Unreal Engine 5", "Perforce"],
+      "link": "",
+      "year": 2025
+    },
+    {
+      "id": 6,
+      "title": "Tobby's Adventure",
+      "shortDescription": "Un jeu inspiré de Zelda",
+      "description": "C'est un jeu python inspiré du premier Zelda, vous devez explorer le monde, trouver des objets et vaincre des ennemis. C'est un jeu 2D avec un style pixel art. Nous avons remporté un prix pour ce projet.",
+      "image": "https://imgur.com/Y0dkalq.png",
+      "technologies": ["Python", "Pygame", "Photoshop"],
+      "link": "https://d1t9mwb4xrtjag.cloudfront.net/archives2023/oh1xIKu8j65cizKDmPl1PLjhBQty0OhVe3m31G5b.pdf",
+      "demoLink": "https://tube.taker.fr/w/76523691-ee02-497e-be47-486938b121b1"
+    }
+  ]
+}

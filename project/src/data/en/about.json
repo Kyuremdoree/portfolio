@@ -1,0 +1,118 @@
+{
+  "sections": [
+    {
+      "id": "gaming",
+      "title": "Gaming Passion",
+      "icon": "Gamepad2",
+      "content": [
+        {
+          "title": "Counter-Strike",
+          "icon": "Trophy",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/capsule_616x353.jpg?t=1749053861",
+          "description": "Dedicated Counter-Strike player with a focus on competitive gameplay and team strategies. Always striving to improve game sense and team coordination.",
+          "highlights": [
+            "Experience in competitive matchmaking",
+            "Development of team strategies",
+            "Community involvement"
+          ]
+        },
+        {
+          "title": "Solo Gaming",
+          "icon": "Sword",
+          "image": "https://comarketing-news.fr/wp-content/uploads/chiffres-jeu-video.jpg",
+          "description": "Big fan of solo video games since childhood, exploring immersive worlds and captivating stories. From epic RPGs to narrative adventure games, every gaming experience is a new adventure.",
+          "highlights": [
+            "Completion",
+            "Exploration",
+            "Entertainment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cinema",
+      "title": "Cinema & Pop Culture",
+      "icon": "Clapperboard",
+      "content": [
+        {
+          "title": "Cinema Enthusiast",
+          "icon": "Film",
+          "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&q=80&w=2070",
+          "description": "Enthusiast of all genres of cinema, from classic films to modern masterpieces. Particularly interested in storytelling techniques and cinematography.",
+          "highlights": [
+            "Curious about movie trivia",
+            "Film analysis and critique"
+          ]
+        },
+        {
+          "title": "TV Series & Animation",
+          "icon": "Tv2",
+          "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=2070",
+          "description": "Following the golden age of television with keen interest in both mainstream and independent productions.",
+          "highlights": [
+            "Curious about series trivia",
+            "Cultural impact studies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "title": "Content Creation",
+      "icon": "Image",
+      "content": [
+        {
+          "title": "Digital Art & Design",
+          "icon": "Palette",
+          "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&q=80&w=2070",
+          "description": "Proficient in Photoshop and digital design tools, creating various types of content from social media assets to digital artworks. Constantly exploring new techniques and styles.",
+          "highlights": [
+            "Photo manipulation",
+            "Digital illustration",
+            "Brand design"
+          ]
+        },
+        {
+          "title": "Streaming & Video Production",
+          "icon": "Video",
+          "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80&w=2070",
+          "description": "Experienced with OBS and video production tools, creating engaging content for various platforms. Focused on production quality and audience engagement.",
+          "highlights": [
+            "Streaming setup",
+            "Video editing",
+            "Content strategy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diplomes",
+      "title": "Degrees Outside Curriculum",
+      "icon": "GraduationCap",
+      "content": [
+        {
+          "title": "Cambridge Diplomas",
+          "icon": "Award",
+          "image": "https://cdn.getyourguide.com/img/location/5c10eb2e55553.jpeg/99.jpg",
+          "description": "During my middle school years, I had the opportunity to take the Cambridge exams (PET & KEY).",
+          "highlights": [
+            "English listening comprehension",
+            "English reading comprehension",
+            "English writing"
+          ]
+        },
+        {
+          "title": "BIA (Aeronautical Initiation Certificate)",
+          "icon": "Plane",
+          "image": "https://www.lyceekastler.fr/wp-content/uploads/2024/02/bia.jpg",
+          "description": "Theoretical and practical training on aircraft, principles of flight, and navigation. Obtained the BIA in 2024.",
+          "highlights": [
+            "Knowledge in aeronautics",
+            "Understanding of flight principles",
+            "Practical training on aircraft"
+          ]
+        }
+      ]
+    }
+  ]
+}

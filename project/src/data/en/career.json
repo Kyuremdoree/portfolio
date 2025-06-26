@@ -1,0 +1,80 @@
+{
+  "timeline": [
+    {
+      "id": 1,
+      "year": "2024 - 2025",
+      "company": "Apside",
+      "position": "Developer Apprentice",
+      "location": "Cournon Auvergne, France",
+      "description": "Full-Stack Developer on internal projects and client needs",
+      "achievements": [
+        ".NET C# API: OpenDATA -> Generic Architecture allowing easy component addition",
+        "Visual and architectural changes for an application managing office plants -> deployment",
+        "Deployment of an API enabling CRUD operations on plants"
+      ],
+      "technologies": ["C#", ".NET", "Flutter", "Dart", "EntityFrameWork", "Nuggets: OData", "Docker"]
+    },
+    {
+      "id": 2,
+      "year": "May 2024 - July 2024",
+      "company": "Apside",
+      "position": "Developer Intern",
+      "location": "Cournon Auvergne, France",
+      "description": "Full-Stack Developer on internal project",
+      "achievements": [
+        ".NET C# API: performing CRUD operations on plants and using Entity Framework",
+        "Development of a Flutter mobile application for user-side plant management",
+        "Development of an admin website to manage plants and users",
+        "Implementation of temperature, humidity, and light sensors for plants and programming on an ESP32"
+      ],
+      "technologies": ["C#", ".NET", "Flutter", "Dart", "EntityFrameWork", "Angular", "C++", "Arduino", "PlatformIO"]
+    },
+    {
+      "id": 3,
+      "year": "December 2023 - May 2024",
+      "company": "UCAQ, University of Quebec at Chicoutimi",
+      "position": "Computer Science Student",
+      "location": "Chicoutimi, Canada",
+      "description": "Studied abroad, focused on UI/UX design, application and video game development, and introduction to Data Mining",
+      "achievements": [
+        "UI/UX design",
+        "Video game prototyping",
+        "Design of a video game (story, evolution, gameplay, graphics)",
+        "Data Mining",
+        "Development of an Android mobile application"
+      ],
+      "technologies": ["Figma", "Canva", "Unreal Engine 5", "Perforce", "Java", "Android", "Python"]
+    },
+    {
+      "id": 4,
+      "year": "2022 - 2025",
+      "company": "BUT Computer Science",
+      "position": "Computer Science Student",
+      "location": "IUT Clermont Auvergne, France",
+      "description": "Training focused on computer science, from design to development to project deployment while performing team management, project management, and economic and legal analysis",
+      "achievements": [
+        "Develop applications",
+        "Optimize applications",
+        "Administer computer systems with complex communications",
+        "Manage information data",
+        "Lead projects",
+        "Collaborate within an IT team"
+      ],
+      "technologies": ["C#", "C++", "C", "Java", "Swift", "Android", "MAUI", "SQLite", "Python", "Kubernetes", "Html/Css"]
+    },
+    {
+      "id": 5,
+      "year": "2019 - 2022",
+      "company": "Saint-Michel High School",
+      "position": "High School Student",
+      "location": "Saint-Etienne, France",
+      "description": "General Education",
+      "achievements": [
+        "Physics-Chemistry Specialization",
+        "Mathematics Specialization",
+        "Computer Science Specialization (NSI)"
+      ],
+      "technologies": ["Python", "Html/Css"]
+    }
+  ]
+}

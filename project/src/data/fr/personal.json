@@ -1,0 +1,27 @@
+{
+  "name": "Alexis LAURENT",
+  "title": "Développeur Full Stack",
+  "bio": "Développeur full-stack, passioné par le développement web, mobile, et service. Cela fais 3 ans que j'étudie ce domaine mais depuis le lycée je m'exerce à la programmation. Je suis curieux et j'aime apprendre de nouvelles choses. J'aime aussi partager mes connaissances avec les autres et aider les gens à résoudre leurs problèmes techniques.",
+  "location": "France, Clermont-Ferrand",
+  "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQHPNog07UfTdQ/profile-displayphoto-crop_800_800/B4EZecLmQ2HwAM-/0/1750672017493?e=1756339200&v=beta&t=wxFuegaJS6TzPi2H9-CxLZXkK9tyGWdZ5cHeGEIrkN8",
+  "social": [
+    {
+      "platform": "GitHub",
+      "icon": "Github",
+      "url": "https://github.com/Kyuremdoree",
+      "username": "@alexisl"
+    },
+    {
+      "platform": "LinkedIn",
+      "icon": "Linkedin",
+      "url": "https://www.linkedin.com/in/alexis-laurent-25495926b/",
+      "username": "Alexis LAURENT"
+    },
+    {
+      "platform": "Email",
+      "icon": "Mail",
+      "url": "mailto:alexis.lrt42@gmail.com",
+      "username": "alexis.lrt42@gmail.com"
+    }
+  ]
+}
