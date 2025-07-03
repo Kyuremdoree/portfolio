@@ -23,6 +23,15 @@
     },
     {
       "id": 3,
+      "title": "Generic OpenData API for an Accounting firm",
+      "shortDescription": "a .NET API using OpenData pattern to manage invoices and make it as more as possible generic to help th firm to manipulate entities",
+      "description": "It was a Client need because they wanted to modernise their accounting system by using a OpenData pattern, that allow them to make a lot of queries specifications with a formated response very strictly. And as more possible than we can, generic to help them to create entities, services, controller the more easyest way as possible to avert them to wrote code lines.",
+      "image": "https://www.abacuscloud.info/Pictures/web/h/i/c/odata_921185.svgz",
+      "technologies": ["C#", "EntityFramework", "ASP.NET Core", "OpenData NuGet", "AutoMapper", "bash", "Insomnia (functional testing)"],
+      "link": ""
+    },
+    {
+      "id": 4,
       "title": "Application to manage UCA's items",
       "shortDescription": "Project to learn MVVM pattern",
       "description": "Implement an app mobile to manage the items of UCA, you can use use item to borrow, return, reserve, and see the history of your items. You can manage your profile, and it's connected to the UCA API.",
@@ -32,7 +41,18 @@
       "year": 2024
     },
     {
-      "id": 4,
+      "id": 5,
+      "title": "Kanpai",
+      "shortDescription": "Provide comprehensive plant management within APSIDE agencies through various component and technologies",
+      "description": "The project was composed of a mobile application to manage plants from ny agency (CRUD operations), this was linked to an API wich allow user to do CRUD oerations connected to a database and an API for the agencies. Plants were tracked with a sensor which get the humidity, temperature and luminosity of the plant, the sensor waw connected to an ESP32 with a sleeping cycle to save battery, and it call the API to update the plant data. And finally a web admin application to manage plants, sensor and agencies.",
+      "image": "https://i.imgur.com/fLNQuJT.png",
+      "technologies": ["C#", ".NET", "Arduino", "ESP32", "Flutter", "Dart", "Angular", "Node.js", "MariaDB", "Docker", "Compose"],
+      "link": "https://i.imgur.com/1eH8Anc.png",
+      "demoLink": "https://www.linkedin.com/in/alexis-laurent-25495926b/overlay/experience/2463835739/multiple-media-viewer/?profileId=ACoAAEIrryABSdQaOwKBbqPrIbVt092POZ4p3P4&treasuryMediaId=1724841741640",
+      "year": 2024
+    },
+    {
+      "id": 6,
       "title": "Elpy",
       "shortDescription": "Tool box application",
       "description": "Elpy is a tool box application, that allow you to Convert currency, use notes, to make a png on a map and wrote information, chrono, audio converter.",
@@ -42,7 +62,7 @@
       "year": 2024
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "Silent Museum",
       "shortDescription": "Horror game based on Sound",
       "description": "An Unreal Engine 5 project, it's an horror game. The goal is simple you have to solved task to escape from a Museum but a monster is following you by the sound that you make when you walk, throw stone to fake your position",
@@ -52,7 +72,7 @@
       "year": 2025
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "Tobby's Adventure",
       "shortDescription": "A Zelda like game",
       "description": "It's a python game inspired by the first Zelda, you have to explore the world, find items, and defeat enemies. It's a 2D game with pixel art style. We won a Prize for this project.",

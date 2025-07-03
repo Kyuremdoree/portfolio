@@ -23,6 +23,15 @@
     },
     {
       "id": 3,
+      "title": "Generic OpenData API pour un Cabinet Comptable",
+      "shortDescription": "Une API .NET utilisant le modèle OpenData pour gérer les factures et la rendre la plus générique possible afin d'aider le cabinet à manipuler les entités",
+      "description": "C'était un besoin client car ils souhaitaient moderniser leur système comptable en utilisant le modèle OpenData, ce qui leur permet de faire de nombreuses requêtes spécifiques avec une réponse strictement formatée. Et autant que possible, rendre le projet générique pour leur permettre de créer des entités, services, contrôleurs de la manière la plus simple possible afin d'éviter d'écrire trop de lignes de code.",
+      "image": "https://www.abacuscloud.info/Pictures/web/h/i/c/odata_921185.svgz",
+      "technologies": ["C#", "EntityFramework", "ASP.NET Core", "OpenData NuGet", "AutoMapper", "bash", "Insomnia (functional testing)"],
+      "link": ""
+    },
+    {
+      "id": 4,
       "title": "Application pour gérer les objets de l'UCA",
       "shortDescription": "Projet pour apprendre le modèle MVVM",
       "description": "Implémentation d'une application mobile pour gérer les objets de l'UCA, vous pouvez utiliser un objet pour emprunter, retourner, réserver et voir l'historique de vos objets. Vous pouvez gérer votre profil, et c'est connecté à l'API de l'UCA.",
@@ -32,7 +41,18 @@
       "year": 2024
     },
     {
-      "id": 4,
+      "id": 5,
+      "title": "Kanpai",
+      "shortDescription": "Gestion complète des plantes au sein des agences APSIDE grâce à divers systèmes et technologies",
+      "description": "Le projet comprenait une application mobile pour gérer les plantes de chaque agence (opérations CRUD), reliée à une API permettant aux utilisateurs d'effectuer des opérations CRUD connectées à une base de données et à une API pour les agences. Les plantes étaient suivies par un capteur mesurant l'humidité, la température et la luminosité, connecté à un ESP32 avec un cycle de sommeil pour économiser la batterie, qui appelait l'API pour mettre à jour les données des plantes. Enfin, une application web d'administration permettait de gérer les plantes, les capteurs et les agences.",
+      "image": "https://i.imgur.com/fLNQuJT.png",
+      "technologies": ["C#", ".NET", "Arduino", "ESP32", "Flutter", "Dart", "Angular", "Node.js", "MariaDB", "Docker", "Compose"],
+      "link": "https://i.imgur.com/1eH8Anc.png",
+      "demoLink": "https://www.linkedin.com/in/alexis-laurent-25495926b/overlay/experience/2463835739/multiple-media-viewer/?profileId=ACoAAEIrryABSdQaOwKBbqPrIbVt092POZ4p3P4&treasuryMediaId=1724841741640",
+      "year": 2024
+    },
+    {
+      "id": 6,
       "title": "Elpy",
       "shortDescription": "Application boîte à outils",
       "description": "Elpy est une application boîte à outils, qui vous permet de convertir des devises, d'utiliser des notes, de créer un png sur une carte et d'écrire des informations, chrono, convertisseur audio.",
@@ -42,7 +62,7 @@
       "year": 2024
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "Silent Museum",
       "shortDescription": "Jeu d'horreur basé sur le son",
       "description": "Un projet Unreal Engine 5, c'est un jeu d'horreur. Le but est simple, vous devez résoudre des tâches pour vous échapper d'un musée, mais un monstre vous suit par le son que vous faites en marchant, lancez des pierres pour feindre votre position.",
@@ -52,7 +72,7 @@
       "year": 2025
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "Tobby's Adventure",
       "shortDescription": "Un jeu inspiré de Zelda",
       "description": "C'est un jeu python inspiré du premier Zelda, vous devez explorer le monde, trouver des objets et vaincre des ennemis. C'est un jeu 2D avec un style pixel art. Nous avons remporté un prix pour ce projet.",
